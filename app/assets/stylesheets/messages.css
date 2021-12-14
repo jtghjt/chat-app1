@@ -122,6 +122,7 @@
 
 .form-input {
   background-color: white;
+  display: flex;
   width: 100%;
 }
 
